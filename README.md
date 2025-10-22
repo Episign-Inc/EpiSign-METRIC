@@ -1,1 +1,2 @@
-# EpiSign-METRIC
+# EpiSign METRIC Clinical Testing Pipeline
+
